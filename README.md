@@ -1,2 +1,2 @@
-# React-router-with-navbar-home-users-about-userDetails-using-reqres
+# react-router-with-fetch-api-with-reqres
 Created with CodeSandbox
